@@ -1,0 +1,52 @@
+
+body{
+     background-image:url('./image.jpg');
+     background-attachment: fixed;
+     background-size: cover;
+}
+   
+#ip1{
+background-color: transparent;
+width:20vw;
+height: auto;
+
+}
+#btn1{
+background-color: transparent;
+height:auto;;
+width:auto; 
+}   
+ #btn1:hover{
+
+     font-weight: bold;
+ }
+
+    
+    
+
+
+#ip1::placeholder{
+    color: black;
+    letter-spacing:1px;
+    text-transform: capitalize;
+    padding-left:5px;
+    
+}
+#h21{
+    font-family:'Sofia';
+    width: max-content;
+color:lavenderblush;
+}   
+
+#div2{
+
+
+text-align:center ;
+
+}
+#bt2{
+    font-size:30px;
+    background-color: transparent;
+    border:none;
+    margin-left:40%;
+}
